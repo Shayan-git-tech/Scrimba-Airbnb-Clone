@@ -1,6 +1,8 @@
 {
   "name": "scrimba-airbnb-clone",
   "version": "0.1.0",
+  "homepage": "https://shayan-git-tech.github.io/Scrimba-Airbnb-Clone/",
+
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
@@ -11,8 +13,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://shayan-git-tech.github.io/Scrimba-Airbnb-Clone"
+    "web-vitals": "^2.1.4"
 
   },
   "scripts": {
