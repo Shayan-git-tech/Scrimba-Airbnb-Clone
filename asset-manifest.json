@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.eeee7351.css",
-    "main.js": "/static/js/main.c158e76d.js",
-    "static/js/453.84c62a88.chunk.js": "/static/js/453.84c62a88.chunk.js",
-    "index.html": "/index.html",
-    "main.eeee7351.css.map": "/static/css/main.eeee7351.css.map",
-    "main.c158e76d.js.map": "/static/js/main.c158e76d.js.map",
-    "453.84c62a88.chunk.js.map": "/static/js/453.84c62a88.chunk.js.map"
+    "main.css": "/Scrimba-Airbnb-Clone/static/css/main.eeee7351.css",
+    "main.js": "/Scrimba-Airbnb-Clone/static/js/main.a2644e22.js",
+    "static/js/453.84c62a88.chunk.js": "/Scrimba-Airbnb-Clone/static/js/453.84c62a88.chunk.js",
+    "index.html": "/Scrimba-Airbnb-Clone/index.html",
+    "main.eeee7351.css.map": "/Scrimba-Airbnb-Clone/static/css/main.eeee7351.css.map",
+    "main.a2644e22.js.map": "/Scrimba-Airbnb-Clone/static/js/main.a2644e22.js.map",
+    "453.84c62a88.chunk.js.map": "/Scrimba-Airbnb-Clone/static/js/453.84c62a88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eeee7351.css",
-    "static/js/main.c158e76d.js"
+    "static/js/main.a2644e22.js"
   ]
 }
