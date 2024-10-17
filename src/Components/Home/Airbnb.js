@@ -11,7 +11,7 @@ export default function Airbnb(props) {
     
     <section className='section1'>
     <div className='hero-image'>
-      <img src="/Images/Group 77.png" alt="a grid" className='hero-image'/>
+      <img src={`${process.env.PUBLIC_URL}/Images/Group 77.png`} alt="a grid" className='hero-image'/>
       </div>
 
       <div className="hero-content">
