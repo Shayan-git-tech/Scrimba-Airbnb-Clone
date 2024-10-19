@@ -14,7 +14,7 @@ let badgeText
     <>
       <div className='card1'>
 {    badgeText &&  <span className='tag'>{badgeText}</span>
-}        <img src={`${process.env.PUBLIC_URL}${props.img}`}alt={props.title}/>
+}        <img src={`${process.env.PUBLIC_URL}${props.img}`} alt={props.title}/>
         <div className='icon-list'>
         <FontAwesomeIcon icon={faStar} color='red'/>
         <p>{props.stats.rating}</p><span>({props.stats.reviewCount}).{props.location}</span>
